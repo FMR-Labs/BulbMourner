@@ -24,7 +24,7 @@ Distributed as a free **Windows VST3** plugin by [FMR Labs](https://github.com/F
 
 ## Features
 
-* 2 colors, 3 input filter and 3 boost, selectable with lever siwtchs
+* 2 colors, 3 input filter and 3 boost, selectable with lever switchs
 * Controls: **Gain**, **tone**, **Volume**, **Filter**, **Color**, **Boost**, **Bypass**
 * Mono or stereo (`1-1`, `2-2`), independent processing per channel
 * Input level LED around bypass foot switch (green / orange / red)
