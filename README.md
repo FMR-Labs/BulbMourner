@@ -38,8 +38,9 @@ Distributed as a free **Windows VST3** plugin by [FMR Labs](https://github.com/F
 ```
 Host (any fs, 1-2 ch)
  → [fs ≠ 48 kHz] resampling → 48 kHz
- → neural model (driven by Gain)
- → Bass / Middle / Treble
+ → 1st neural model (driven by Color and Filter)
+ → Tone
+ → 2nd neural model (driven by Boost)
  → Volume
  → [fs ≠ 48 kHz] resampling → host fs
 ```
